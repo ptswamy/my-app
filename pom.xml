@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+   <distributionManagement>
         <repository>
             <id>nexus</id>
             <name>Internal Releases</name>
@@ -25,4 +26,5 @@
             <name>Internal Snapshot Releases</name>
             <url>http://35.231.244.182:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
+     </distributionManagement>
 </project>
