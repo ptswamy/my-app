@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>SWAMY</groupId>
-  <artifactId>MYAPP</artifactId>
+  <artifactId>DEVOPS</artifactId>
   <packaging>jar</packaging>
-  <version>8.0</version>
+  <version>3.0</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
