@@ -18,7 +18,7 @@ pipeline {
         }
         stage('--deploy--') {
             steps {
-                sh "cp  /root/.jenkins/workspace/pipeline2/target/my-app-1.0-SNAPSHOT.jar /opt/apache-tomcat-9.0.14/webapps"
+                sh "cp  /root/.jenkins/workspace/pipeline2/target/MYAPP-8.0.jar /opt/apache-tomcat-9.0.14/webapps"
             }
         }
     }
